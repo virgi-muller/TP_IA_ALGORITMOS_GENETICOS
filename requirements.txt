@@ -1,0 +1,8 @@
+# Probado con Python 3.13
+# scikit-learn queda fijo en 1.5.2: sklearn-genetic (Actividad 3) falla con versiones posteriores
+numpy==2.5.4
+matplotlib==3.11.2
+scikit-learn==1.5.2
+sklearn-genetic==0.6.0
+deap==1.4.4
+ipykernel==7.4.0
